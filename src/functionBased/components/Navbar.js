@@ -25,7 +25,7 @@ const Navbar = () => {
   };
   return (
     <nav className="navBar">
-      <button onClick={handleToggle}>
+      <button type="button" onClick={handleToggle}>
         {navbarOpen ? (
           <MdClose style={{ color: '#fff', width: '40px', height: '40px' }} />
         ) : (
