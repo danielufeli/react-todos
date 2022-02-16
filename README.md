@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple example steps.
 - Make sure you have installed nodejs
 
 ### Setup
-- git clone git@github.com:danielufeli/maths-magicians.git
+- git clone git@github.com:danielufeli/react-todos.git
 
 ### Install
 - run npm install
